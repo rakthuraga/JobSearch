@@ -1,5 +1,5 @@
 
-## <a name="quick-start">🤸 How to run the application </a>
+## <a name="quick-start"> How to run the application </a>
 
 **Installation**
 
